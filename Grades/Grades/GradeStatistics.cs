@@ -1,0 +1,6 @@
+﻿namespace Grades
+{
+    class GradeStatistics
+    {
+    }
+}
